@@ -1,0 +1,16 @@
+[project]
+name = "langchain_intro"
+version = "0.1.0"
+description = "Learn LangChain Basics"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain",
+    "langchain-openai",
+    "openai",
+]
+
+[dependency-groups]
+dev = [
+    "ptpython",
+    "python-dotenv",
+]

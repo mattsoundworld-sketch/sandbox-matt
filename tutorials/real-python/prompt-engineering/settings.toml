@@ -1,0 +1,51 @@
+[general]
+chat_models = ["gpt-3.5-turbo", "gpt-4"]
+model = "gpt-3.5-turbo"
+temperature = 0
+
+[prompts]
+instruction_prompt = """
+Remove personally identifiable information from >>>>>CONTENT<<<<<, only show the date,
+and replace all swear words with "😤"
+
+#### START EXAMPLES
+
+----Example Inputs:----
+[support_tom] 2023-07-24T10:02:23+00:00 : What can I help you with?
+[johndoe] 2023-07-24T10:03:15+00:00 : I CAN'T CONNECT TO MY BLASTED ACCOUNT
+[support_tom] 2023-07-24T10:03:30+00:00 : Are you sure it's not your caps lock?
+[johndoe] 2023-07-24T10:04:03+00:00 : Blast! You're right!
+
+[support_amy] 2023-06-15T14:45:35+00:00 : Hello! How can I assist you today?
+[greg_stone] 2023-06-15T14:46:20+00:00 : I can't seem to find the download link for my purchased software.
+[support_amy] 2023-06-15T14:47:01+00:00 : No problem, Greg. Let me find that for you. Can you please provide your order number?
+[greg_stone] 2023-06-15T14:47:38+00:00 : It's 1245789. Thanks for helping me out!
+
+----Example Outputs:----
+[Agent] 2023-07-24 : What can I help you with?
+[Customer] 2023-07-24 : I CAN'T CONNECT TO MY 😤 ACCOUNT
+[Agent] 2023-07-24 : Are you sure it's not your caps lock?
+[Customer] 2023-07-24 : 😤! You're right!
+
+[Agent] 2023-06-15 : Hello! How can I assist you today?
+[Customer] 2023-06-15 : I can't seem to find the download link for my purchased software.
+[Agent] 2023-06-15 : No problem, ****. Let me find that for you. Can you please provide your order number?
+[Customer] 2023-06-15 : It's ****. Thanks for helping me out!
+
+
+#### END EXAMPLES
+"""
+role_prompt = """
+"""
+positive_example = """
+"""
+positive_reasoning = """
+"""
+positive_output = """
+"""
+negative_example = """
+"""
+negative_reasoning = """
+"""
+negative_output = """
+"""
