@@ -1,0 +1,8 @@
+python-dotenv
+requests
+msal
+anthropic
+openai
+markitdown[all]
+pypdf
+pytest

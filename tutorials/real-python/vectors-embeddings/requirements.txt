@@ -1,0 +1,10 @@
+spacy
+click
+dotenv
+sentence-transformers
+chromadb
+more-itertools
+polars
+google-genai
+fastapi
+uvicorn[standard]

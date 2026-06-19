@@ -1,0 +1,58 @@
+AI / LLM
+-OpenAI
+-ChatGPT
+-Ollama
+-OpenRouter
+-Prompt Engineering
+-LangChain
+-RAG
+-LangGraph
+
+
+Data
+-Vector DataBases
+-ChromaDB
+-MarkItDown (embeddings)
+-Pydantic AI
+-MCP Server
+-CSV
+-JSON
+-pandas
+-openpyxl (Excel)
+-SQLite, MySQL, PostgreSQL
+-SQAlchemy
+-Boto3
+-AWS S3
+
+
+Machine Learning
+-DALL-E / OpenAI - Images
+-Recommendation Engine
+-Linear Regression
+-Neural Newtworks
+-scikit-Learning train_test_split()
+-Pillow
+-Color Spaces / OpenCV
+-Face detection
+-NLTK 
+-spaCy
+-Keras
+-ChatterBot
+-TorchAudio
+-Hugging Face
+-PyTorch
+-Tensorflow
+-kNN
+-K-means clustering
+-Generative Adversarial Networks
+-Liquid Neural Networks
+
+Visualization
+-pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Bokeh
+-ggplot
+-Dash
+-Folium
