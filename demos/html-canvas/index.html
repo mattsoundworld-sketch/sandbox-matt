@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Notes Canvas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="top-nav">
+        <button id="editCanvasTitle" class="brand" title="Edit canvas title" aria-label="Edit canvas title">
+          Notes Canvas
+        </button>
+        <nav class="nav-actions" aria-label="Canvas actions">
+          <button id="addNote">Add Note</button>
+          <button id="openLayout">Configure Layout</button>
+          <button id="editSectionTitles" class="subtle">Edit Section Titles</button>
+          <button id="clearLayout" class="subtle">Clear Layout</button>
+          <button id="clearAll" class="danger">Clear Canvas State</button>
+        </nav>
+      </header>
+
+      <main class="canvas-wrapper">
+        <div id="canvas" class="canvas" aria-label="notes canvas"></div>
+      </main>
+    </div>
+
+    <dialog id="noteDialog" class="modal">
+      <form method="dialog" id="noteDialogForm" class="modal-body">
+        <h2>Add Note</h2>
+        <label for="newNoteTitle">Title</label>
+        <input type="text" id="newNoteTitle" maxlength="80" placeholder="Note title" />
+
+        <label for="noteColor">Note color</label>
+        <input type="color" id="noteColor" value="#ffd43b" />
+
+        <label for="newNoteText">Initial text (optional)</label>
+        <textarea id="newNoteText" rows="4" placeholder="Type initial note text..."></textarea>
+
+        <div class="modal-actions">
+          <button type="button" id="cancelNoteDialog" class="subtle">Cancel</button>
+          <button type="submit">Create Note</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="layoutDialog" class="modal">
+      <form method="dialog" id="layoutDialogForm" class="modal-body">
+        <h2>Configure Layout</h2>
+
+        <label for="layoutMode">Mode</label>
+        <select id="layoutMode">
+          <option value="none">Free canvas</option>
+          <option value="columns">Columns</option>
+          <option value="rows">Rows</option>
+          <option value="grid">Grid</option>
+        </select>
+
+        <label for="columnCount">Columns</label>
+        <input type="number" id="columnCount" min="1" max="8" value="3" />
+
+        <label for="rowCount">Rows</label>
+        <input type="number" id="rowCount" min="1" max="8" value="2" />
+
+        <label for="showTitles" class="checkbox-row">
+          <input type="checkbox" id="showTitles" checked />
+          Show section titles
+        </label>
+
+        <div class="modal-actions">
+          <button type="button" id="cancelLayoutDialog" class="subtle">Cancel</button>
+          <button type="submit">Apply Layout</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="canvasTitleDialog" class="modal">
+      <form method="dialog" id="canvasTitleDialogForm" class="modal-body">
+        <h2>Canvas Title</h2>
+        <label for="canvasTitleInput">Title</label>
+        <input type="text" id="canvasTitleInput" maxlength="120" placeholder="Canvas title" />
+
+        <div class="modal-actions">
+          <button type="button" id="cancelCanvasTitleDialog" class="subtle">Cancel</button>
+          <button type="submit">Save Title</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="sectionTitlesDialog" class="modal">
+      <form method="dialog" id="sectionTitlesDialogForm" class="modal-body">
+        <h2>Section Titles</h2>
+        <div id="sectionTitlesFields" class="fields-stack"></div>
+
+        <div class="modal-actions">
+          <button type="button" id="cancelSectionTitlesDialog" class="subtle">Cancel</button>
+          <button type="submit">Save Titles</button>
+        </div>
+      </form>
+    </dialog>
+
+    <template id="noteTemplate">
+      <article class="note" draggable="false">
+        <button class="note-delete" title="Delete note" aria-label="Delete note">x</button>
+        <input class="note-title" maxlength="80" placeholder="Title" />
+        <textarea class="note-content" placeholder="Type your note..."></textarea>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

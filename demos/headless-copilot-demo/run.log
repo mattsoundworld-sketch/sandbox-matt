@@ -1,0 +1,160 @@
+[2026-06-20T14:34:08.658620-04:00] Opening headless context (attempt 1/3)
+[2026-06-20T14:34:12.342776-04:00] Loaded URL in headless mode (auth cycle 1/3): https://m365.cloud.microsoft/chat
+[2026-06-20T14:34:12.780738-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-20T14:34:13.366029-04:00] Baseline assistant/message candidates: 0
+[2026-06-20T14:34:13.376532-04:00] Baseline user-message candidates: 0
+[2026-06-20T14:34:17.643191-04:00] Prompt submitted using: enter
+[2026-06-20T14:34:32.723262-04:00] User message echo not detected after submit; retrying via send-button click.
+[2026-06-20T14:34:32.764639-04:00] Send button not found for retry; continuing to assistant response wait.
+[2026-06-20T14:34:32.766274-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-20T14:34:39.855320-04:00] Response captured with 11 characters
+[2026-06-20T14:39:52.151348-04:00] ----- New run started -----
+[2026-06-20T14:39:53.497948-04:00] Opening headless context (attempt 1/3)
+[2026-06-20T14:39:56.216086-04:00] Loaded URL in headless mode (auth cycle 1/3): https://m365.cloud.microsoft/chat
+[2026-06-20T14:39:56.580694-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-20T14:39:56.977688-04:00] Baseline assistant/message candidates: 0
+[2026-06-20T14:39:56.981799-04:00] Baseline user-message candidates: 0
+[2026-06-20T14:40:02.833013-04:00] Prompt submitted using: enter
+[2026-06-20T14:40:18.255946-04:00] User message echo not detected after submit; retrying via send-button click.
+[2026-06-20T14:40:33.465723-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-20T14:40:37.578844-04:00] Response captured with 482 characters
+[2026-06-20T14:42:53.022293-04:00] ----- New run started -----
+[2026-06-20T14:42:55.169188-04:00] Opening headless context (attempt 1/3)
+[2026-06-20T14:42:58.521507-04:00] Loaded URL in headless mode (auth cycle 1/3): https://m365.cloud.microsoft/chat
+[2026-06-20T14:42:58.900513-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-20T14:42:59.073314-04:00] Baseline assistant/message candidates: 0
+[2026-06-20T14:42:59.076456-04:00] Baseline user-message candidates: 0
+[2026-06-20T14:43:05.201669-04:00] Prompt submitted using: enter
+[2026-06-20T14:43:20.626033-04:00] User message echo not detected after submit; retrying via send-button click.
+[2026-06-20T14:43:36.200910-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-20T14:43:37.700824-04:00] Response length grew to 146 characters
+[2026-06-20T14:46:37.690091-04:00] Timed out, returning best response seen (146 chars)
+[2026-06-20T14:46:37.697750-04:00] Response captured with 146 characters
+[2026-06-20T15:34:11.034745-04:00] ----- New run started -----
+[2026-06-20T15:34:12.694271-04:00] Opening headless context (attempt 1/3)
+[2026-06-20T15:34:16.318401-04:00] Loaded URL in headless mode (auth cycle 1/3): https://m365.cloud.microsoft/chat
+[2026-06-20T15:34:17.316737-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-20T15:34:17.968965-04:00] Baseline assistant/message candidates: 0
+[2026-06-20T15:34:17.986062-04:00] Baseline user-message candidates: 0
+[2026-06-20T15:34:24.976326-04:00] Prompt submitted using: enter
+[2026-06-20T15:34:40.352844-04:00] User message echo not detected after submit; retrying via send-button click.
+[2026-06-20T15:34:55.638207-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-20T15:34:55.714023-04:00] Response length grew to 766 characters
+[2026-06-20T15:37:56.583259-04:00] Timed out, returning best response seen (766 chars)
+[2026-06-20T15:37:56.591833-04:00] Response captured with 766 characters
+[2026-06-20T15:39:59.664071-04:00] ----- New run started -----
+[2026-06-20T15:40:01.004871-04:00] Opening headless context (attempt 1/3)
+[2026-06-20T15:40:04.722769-04:00] Loaded URL in headless mode (auth cycle 1/3): https://m365.cloud.microsoft/chat
+[2026-06-20T15:40:05.102293-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-20T15:40:05.261243-04:00] Baseline assistant/message candidates: 0
+[2026-06-20T15:40:05.278991-04:00] Baseline user-message candidates: 0
+[2026-06-20T15:40:10.981092-04:00] Prompt submitted using: enter
+[2026-06-20T15:40:26.397873-04:00] User message echo not detected after submit; retrying via send-button click.
+[2026-06-20T15:40:41.606293-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-20T15:40:41.657843-04:00] Response length grew to 317 characters
+[2026-06-20T15:40:41.678323-04:00] Interruption detected; continue attempt 1/3
+[2026-06-20T15:40:41.692954-04:00] Generation interruption detected, but no continue control was clickable.
+[2026-06-20T15:40:43.244735-04:00] Interruption detected; continue attempt 2/3
+[2026-06-20T15:40:43.260364-04:00] Generation interruption detected, but no continue control was clickable.
+[2026-06-20T15:40:44.812134-04:00] Interruption detected; continue attempt 3/3
+[2026-06-20T15:40:44.830419-04:00] Generation interruption detected, but no continue control was clickable.
+[2026-06-20T15:44:41.625839-04:00] Timed out, returning best response seen (317 chars)
+[2026-06-20T15:44:41.633460-04:00] Response captured with 317 characters
+[2026-06-21T08:46:23.312245-04:00] ----- New run started -----
+[2026-06-21T08:46:25.257387-04:00] Opening headless context (attempt 1/3)
+[2026-06-21T08:46:31.036635-04:00] Loaded URL in headless mode (auth cycle 1/3): https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3a%2f%2fm365.cloud.microsoft%2flandingv2&response_type=code+id_token&scope=openid+profile+https%3a%2f%2fwww.office.com%2fv2%2fOfficeHome.All&response_mode=form_post&nonce=639176427878588890.OTJmMDE5N2UtYzBkZS00YzBmLWIyNjItYTVhMzMwZjFhZjU5NDM5Yjk0ZDQtYmUxMS00OTFhLWE3MWUtZDhkZDkzNTZlNDQx&ui_locales=en-US&mkt=en-US&client-request-id=7486c1c2-4b2f-434f-b462-f9a8c8b105a7&state=eynCpmH03l0TA-lA-IsYu26C4xqkpqF-bTNdDpQf-s7ndlYj7jG4jfQcyt52apSiDfqNZOiSftLLQtbnZ6ouk0ZBRzUq0XRBepm3obJQGcw6290R-FQFzsk-kGba0O68J-68g3so5vXy2lePQkOAdML_xSh5o3CQya-Oda6x_2ePXVu1v2iCFe09oGFhFhlXqxZbdXTKoVu9E_SCouQEsOaTdVcnfe4zJaMo_hSAYfzGlgue38u_nixq7rheCRm-eLHjF4UMN0gdSijqbAXwknXQeGVgHUMHhw8qhYeSKHvvNxybWv5iS4qKc36RjYc-dkGOM3oG_bZsZIuZZE-rAJb9cpb_V8WoMVRz7_eIuuEEr8zvnQB9hRbFfYlKSOh2twCb8jeR35cRgYR5vV2ozq_WzUR6lrgA7iKw2MZv2c91sbuW-MDLG-heI7A_oHj0&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0&sso_nonce=AwABEgEAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwUAAAAAADACTN9fDlTMSCADY_4HtJWj00nDyGfxpU0v99R1FDa8SKxSG6fVzpR9df784DjmLTZnFYbQMEguBpfbGzjks1EgAA&mscrid=7486c1c2-4b2f-434f-b462-f9a8c8b105a7
+[2026-06-21T08:46:31.089793-04:00] Auth indicators present, initiating manual sign-in flow.
+[2026-06-21T08:46:35.060152-04:00] Initial URL: https://m365.cloud.microsoft/chat
+[2026-06-21T08:46:35.066823-04:00] Auth indicators detected: True
+[2026-06-21T08:46:35.073553-04:00] Composer detected before auth flow: True
+[2026-06-21T08:46:35.080634-04:00] Authentication required. Starting system Edge sign-in flow.
+[2026-06-21T08:46:36.361502-04:00] Opening headed context (attempt 1/2)
+[2026-06-21T08:46:39.680556-04:00] Launched headed Edge for sign-in: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639176427978508618.MGZlYjVlMzYtYmY4Yy00OWMwLTk4MTktYjg5MDViYzkwNTQyMGQyYTY0OWMtMTc0OC00ZGZiLTk2NDYtNWViNzYyN2JkZDli&ui_locales=en-US&mkt=en-US&client-request-id=33c558c2-892b-4ec9-b26f-c039ddd3c36f&state=7bJIxEoE3PHZ7HNhofpIeu7LKO0zfZQXW4bi11csS1k2oSnOZQr_Sm-R07mkY42NQmaSbKx21wvRB3DZn5o5eqSrMXJ5D8MSCgXrYnQYU7fv5figcyNrhoNISEkrrCQr-eWG4OMQ4ZCW4Yyh6vm5u674SHA4idhsomrKK6_cwN5Z0SWU34_xlo41ZW-U60A6YN-KKk81k_C_FqzWjnDlfVtHoFFsNyF_RnmT0rDVzBEavBrzBJ4MyY5CiINPxNMOpfmpEwE9qlkvRz8QIW3XcAfku0IFvCZIbVUXjH1RwPhyp9sedIoiPXEW8FBmrjsHYcYPNbdFJIg-pAivukLhS3ydcWHZqBqHlKrif5shUZPSKZIVzWu0gvg23EYlLQ2nGWpmGBcCo1EcaMGP-R9QI8Ge7OijcbpnZctqJVg6vr4DEwc8UnSY9kWCilOIUdRu&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+[2026-06-21T08:47:05.232024-04:00] Opening headless context (attempt 1/3)
+[2026-06-21T08:47:08.770762-04:00] Loaded URL in headless mode (auth cycle 2/3): https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639176428270123867.NThhYmZlZDUtNDBkYy00OWQwLWFjNWUtNmY0Mjg1NGFjMTM0ZTM5Nzg2ZDItZTBmYS00YjI1LWFhM2UtZTdhYWYyZTZiZjFm&ui_locales=en-US&mkt=en-US&client-request-id=6d5f8ea8-89ed-4870-84bc-8b9ac7975059&state=iWYVuxLYQ6PO29yvdIBoeqYUYAJys8UYxlhFvl0Xj_q--I_UYofv_x0fM3JstbHNIpqlcZQSF0LLfdiBCBdnpT1II8ySCbmbbmmtQFk3AsKZ9AbzVXNIg5Xs2VM_Np1nh0EgrJX3FQEi43kzTKBwxue1m3cOi1TUSuLV4f-Hcm1MKke5euJRZSVqJLxV1V8kc_tULOK2dDrif7i6nh1SR6rXdK93EhxaHzeV3aw6Udb6wh_l051_ZryVqtmCHXSwMOQ1zUmZU1OAU_NLT44NkGhLh98mqK6fXsYL6ldK8tBOulHNoH9FvaEHCDGJ-knlL0CVnE65ezXzvKmO4969fnB9fuHaBFi5GKEdUhD-2cq2XhgmQp7zCRhHYT7mlikDUaaZD2TvDeb9YXOFSOdO-1qFhKmhzuly4-xx0G1xvSINzJLIMmg5ucIHnKfLCKwk&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+[2026-06-21T08:47:08.774070-04:00] Auth indicators present, initiating manual sign-in flow.
+[2026-06-21T08:47:10.738253-04:00] Initial URL: https://m365.cloud.microsoft/chat
+[2026-06-21T08:47:10.741575-04:00] Auth indicators detected: True
+[2026-06-21T08:47:10.745502-04:00] Composer detected before auth flow: True
+[2026-06-21T08:47:10.750298-04:00] Authentication required. Starting system Edge sign-in flow.
+[2026-06-21T08:47:11.829599-04:00] Opening headed context (attempt 1/2)
+[2026-06-21T08:47:15.093522-04:00] Launched headed Edge for sign-in: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639176428332069632.MTJkNWE0M2UtYTZiMC00ZjJiLThhZTAtZWI0OTczMzdlNzE5OWI3MTc3YTAtOTZlMi00NWY5LWFiODQtMDI0ZWEzMWFmNDU1&ui_locales=en-US&mkt=en-US&client-request-id=de6adaf3-dacc-4f7f-bf01-62d962a9592d&state=1pw-iDYZXZeddNdqdvv5ZLBLBa_vXONrFAchzTjbT06oZLrAWCgLIRcOcDs1edBHMSN1gkAuo0AJ84HbPctdx36p9ad9mM3ns64Z4Fy6LUgnzHi3ol1bZc2uUnZmtHg3oX-GJqiAk0F54H-xGEYWD-2b3dbGfsk3w3B36AM1Xbe9DUZg_X_V_5k-O8XEsPNV1D7FRp8ppliIRxnjRKIz5QC_E_GqV_swvg9mZtpX-kGi5-i5rivdj3S--6Jy91LGnYqs_mjqDdYPvIJlKE4CIo_pTfYXLxW54qksA0f6OEvc52ZOHdUL3Uc1wWl1VPKcJuF8PuGGphSm2O9cxcIIVC4V9g9DIRzxdjRBb9IeQ5reOLzSJXiCS-UlUjDOwO_9wz92SYBXdZhqkdLbxV-WA972mTBmOCUtMxV8cos5Xa2epiN_ZkHgB-YHTOzdjubY&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+[2026-06-21T08:47:44.980444-04:00] Opening headless context (attempt 1/3)
+[2026-06-21T08:47:49.415584-04:00] Loaded URL in headless mode (auth cycle 3/3): https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639176428677513031.ZTM2ZDA2NmEtYmRkMy00NjY2LTk2Y2MtNDE1MzY4NDM5NzIzNzM3NmFjM2UtNGU0MC00MzRjLWJlODYtMDFmMTQxYTVhNmYw&ui_locales=en-US&mkt=en-US&client-request-id=6720d869-2add-4552-9ff8-591629649013&state=JPj3aLX1MYV420sonHNBRLMNO4llAbmR1NWtUgx11V0fsx_fJxABn9vwfE7bunSXZi2aoOMwRpv6aK2KGOP4nZeqWiSnfEhEyxZn1TL6MjnX9WnGLvy4OJJOph7Fi0N2sanr3TxhoRHcJzovL7p2cZJgJdPn0eqGH5eqpUNYsdX8ZoJWD5eZshiEpYGiyEqyD6wFtMfnoU6nvwFmfFYUsVFVl77E7ZrDAA_MWio-Hwc4vPj960lkYH1u_QF-JEjx36CQuW9vIjRLDgNFDZ0eeinvhgC4KSSEtuuO7golRQ0uwbmepF8f9xnqmi7NEqyBMxK5mpWfaO5La1jlskFbEt_Yj_AOjcgCRWpG7IopHVpIcFEZa_VPjPuaojxjIv0Ce1jGAV-j1kpolCcmuoZqNtYSsMAVqCTPGUaL7BPAKLH5jOma837RvJs4MWvAt6rY&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+[2026-06-21T08:47:49.418854-04:00] Auth indicators present, initiating manual sign-in flow.
+[2026-06-21T08:47:51.147336-04:00] Initial URL: https://m365.cloud.microsoft/chat
+[2026-06-21T08:47:51.157355-04:00] Auth indicators detected: True
+[2026-06-21T08:47:51.162103-04:00] Composer detected before auth flow: True
+[2026-06-21T08:47:51.168788-04:00] Authentication required. Starting system Edge sign-in flow.
+[2026-06-21T08:47:51.724961-04:00] Opening headed context (attempt 1/2)
+[2026-06-21T08:47:55.066884-04:00] Launched headed Edge for sign-in: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639176428732227355.NjBlZDdjZTgtZmE1YS00NjkyLWFkZDYtMTM2ODEwNTNlZDQwZjQ3NjI1OGMtYzQ0MS00ZmM5LTgyNmMtYzA5ZjFhY2M1NTYz&ui_locales=en-US&mkt=en-US&client-request-id=6149011d-18c6-439b-8116-2512650db75c&state=g9zzVu7n5eGhuiTYNVPaSWQIHkFT1dP9eaC4isw3K6X_718bTc7f92hxHt0yElYW1lVbvnuxA5KU4Rb-HHixzhHjeoAviMcb-cedg4TAZKhJjGI8dt_m3llaqs5ThgmttB8f7GhJTFGFSqiNuTZdzTErHJHCWLmhh-7yrCQ2tsrmw0jh917gWltSzTfzLRt5IM_9iv5H1MPkIE3DXqvGSHvwMJDDyOEciTZ2Yc9Geqwc1gISzDPLB-qyLJAGimOUcoLj9HRbDhAo8Uf55zzfuMBsTAmKAJr_y4DCdp24OVdJhztZ95sWXm-xAGhvx_6c5vc7J3IDsyuzKoDW9ahNzRqvHdn-8a0cJ5gvOXZgbRs8DuFGloEAquU4cRCd1AgDHNIYakRL3Rrx2oegLmlb00GRAqRT9aSFMg1CD5GWV0YVUK_pRpObjo_l4x6UuMUF&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+[2026-06-21T08:50:21.123397-04:00] ----- New run started -----
+[2026-06-21T08:50:23.715713-04:00] Opening headless context (attempt 1/3)
+[2026-06-21T08:50:29.110820-04:00] Loaded URL in headless mode (auth cycle 1/5): https://m365.cloud.microsoft/chat
+[2026-06-21T08:50:29.620033-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-21T08:50:30.214286-04:00] Baseline assistant/message candidates: 0
+[2026-06-21T08:50:30.325691-04:00] Baseline user-message candidates: 0
+[2026-06-21T08:50:38.601737-04:00] Prompt submitted using: enter
+[2026-06-21T08:50:53.613115-04:00] User message echo not detected after submit; retrying via send-button click.
+[2026-06-21T08:51:09.331916-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-21T08:51:11.683037-04:00] Response length grew to 64 characters
+[2026-06-21T08:51:11.726566-04:00] Interruption detected; continue attempt 1/3
+[2026-06-21T08:51:11.755541-04:00] Generation interruption detected, but no continue control was clickable.
+[2026-06-21T08:51:14.152088-04:00] Interruption detected; continue attempt 2/3
+[2026-06-21T08:51:14.184098-04:00] Generation interruption detected, but no continue control was clickable.
+[2026-06-21T08:51:16.410547-04:00] Interruption detected; continue attempt 3/3
+[2026-06-21T08:51:16.436305-04:00] Generation interruption detected, but no continue control was clickable.
+[2026-06-21T08:55:09.546386-04:00] Timed out, returning best response seen (64 chars)
+[2026-06-21T08:55:09.553154-04:00] Response captured with 64 characters
+[2026-06-21T08:57:46.143078-04:00] ----- New run started -----
+[2026-06-21T08:57:49.004381-04:00] Opening headless context (attempt 1/3)
+[2026-06-21T08:57:52.689644-04:00] Loaded URL in headless mode (auth cycle 1/5): https://m365.cloud.microsoft/chat
+[2026-06-21T08:57:53.139793-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-21T08:57:53.525673-04:00] Baseline assistant/message candidates: 0
+[2026-06-21T08:57:53.545368-04:00] Baseline user-message candidates: 0
+[2026-06-21T08:58:00.391854-04:00] Prompt submitted using: enter
+[2026-06-21T08:58:15.694965-04:00] User echo not detected, but generation appears active; not retrying submit click.
+[2026-06-21T08:58:15.697759-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-21T08:58:15.785246-04:00] Response length grew to 524 characters
+[2026-06-21T08:58:17.448570-04:00] Response length grew to 847 characters
+[2026-06-21T08:58:19.074778-04:00] Response length grew to 1264 characters
+[2026-06-21T08:58:20.696675-04:00] Response length grew to 1654 characters
+[2026-06-21T08:58:22.406706-04:00] Response length grew to 2036 characters
+[2026-06-21T08:58:24.126468-04:00] Response length grew to 2409 characters
+[2026-06-21T08:58:25.914972-04:00] Response length grew to 2872 characters
+[2026-06-21T08:58:27.536861-04:00] Response length grew to 3311 characters
+[2026-06-21T08:58:29.190618-04:00] Response length grew to 3800 characters
+[2026-06-21T08:58:30.839839-04:00] Response length grew to 4328 characters
+[2026-06-21T08:58:32.679361-04:00] Response length grew to 4747 characters
+[2026-06-21T08:58:34.409795-04:00] Response length grew to 5190 characters
+[2026-06-21T08:58:36.195125-04:00] Response length grew to 5608 characters
+[2026-06-21T08:58:38.202448-04:00] Response length grew to 6034 characters
+[2026-06-21T08:58:39.860969-04:00] Response length grew to 6072 characters
+[2026-06-21T08:58:41.514704-04:00] Response length grew to 6247 characters
+[2026-06-21T09:02:16.890158-04:00] Timed out, returning best response seen (6247 chars)
+[2026-06-21T09:02:16.901470-04:00] Response captured with 6247 characters
+[2026-06-21T09:05:29.655479-04:00] ----- New run started -----
+[2026-06-21T09:05:31.121849-04:00] Opening headless context (attempt 1/3)
+[2026-06-21T09:05:33.740091-04:00] Loaded URL in headless mode (auth cycle 1/5): https://m365.cloud.microsoft/chat
+[2026-06-21T09:05:34.029924-04:00] Composer found using selector: [contenteditable='true'][aria-label*='copilot' i]
+[2026-06-21T09:05:34.450316-04:00] Baseline assistant/message candidates: 0
+[2026-06-21T09:05:34.471485-04:00] Baseline user-message candidates: 0
+[2026-06-21T09:05:39.913081-04:00] Prompt submitted using: enter
+[2026-06-21T09:05:55.205725-04:00] User echo not detected, but generation appears active; not retrying submit click.
+[2026-06-21T09:05:55.209171-04:00] User message echo still not detected; waiting for assistant response as fallback.
+[2026-06-21T09:05:55.407745-04:00] Response length grew to 392 characters
+[2026-06-21T09:05:56.999486-04:00] Response length grew to 828 characters
+[2026-06-21T09:05:58.588991-04:00] Response length grew to 1245 characters
+[2026-06-21T09:06:00.195181-04:00] Response length grew to 1633 characters
+[2026-06-21T09:06:01.886956-04:00] Response length grew to 2112 characters
+[2026-06-21T09:06:03.510044-04:00] Response length grew to 2536 characters
+[2026-06-21T09:06:05.110382-04:00] Response length grew to 2978 characters
+[2026-06-21T09:06:06.732435-04:00] Response length grew to 3374 characters
+[2026-06-21T09:06:08.720365-04:00] Response length grew to 3717 characters
+[2026-06-21T09:06:10.675917-04:00] Response length grew to 4224 characters
+[2026-06-21T09:06:12.586425-04:00] Response length grew to 4606 characters
+[2026-06-21T09:06:14.612903-04:00] Response length grew to 5067 characters
+[2026-06-21T09:06:16.407472-04:00] Response length grew to 5327 characters
+[2026-06-21T09:06:19.789063-04:00] Response length grew to 5499 characters
+[2026-06-21T09:06:32.128747-04:00] Returning due to stable response with no stop control visible.
+[2026-06-21T09:06:32.135532-04:00] Response captured with 5499 characters
