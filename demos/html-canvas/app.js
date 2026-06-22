@@ -2,6 +2,7 @@ const STORAGE_KEY = "html-canvas-state-v1";
 
 const NOTE_WIDTH = 210;
 const NOTE_HEIGHT = 160;
+const NOTE_COLORS = ["#ffd43b", "#ff6b6b", "#4dabf7", "#69db7c", "#ffffff", "#d0bfff"];
 
 const state = {
   canvasTitle: "Notes Canvas",
@@ -187,11 +188,12 @@ function renderLayoutOverlay() {
 
 function addNote() {
   const rect = els.canvas.getBoundingClientRect();
+  const selectedColor = NOTE_COLORS.includes(els.noteColor.value) ? els.noteColor.value : NOTE_COLORS[0];
   const note = {
     id: uid(),
     x: 20 + (state.notes.length % 6) * 24,
     y: 20 + (state.notes.length % 6) * 24,
-    color: els.noteColor.value,
+    color: selectedColor,
     title: (els.newNoteTitle.value || "").trim(),
     text: (els.newNoteText.value || "").trim(),
   };

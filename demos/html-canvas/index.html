@@ -33,7 +33,14 @@
         <input type="text" id="newNoteTitle" maxlength="80" placeholder="Note title" />
 
         <label for="noteColor">Note color</label>
-        <input type="color" id="noteColor" value="#ffd43b" />
+        <select id="noteColor">
+          <option value="#ffd43b" selected>Yellow</option>
+          <option value="#ff6b6b">Red</option>
+          <option value="#4dabf7">Blue</option>
+          <option value="#69db7c">Green</option>
+          <option value="#ffffff">White</option>
+          <option value="#d0bfff">Purple</option>
+        </select>
 
         <label for="newNoteText">Initial text (optional)</label>
         <textarea id="newNoteText" rows="4" placeholder="Type initial note text..."></textarea>
